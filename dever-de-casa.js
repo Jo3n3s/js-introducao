@@ -92,13 +92,19 @@
 
 // //zé-cicio 9
 
-// let valorcompra;
-// valorcompra = 150;
-// if (valorcompra >= 200) {
+//zé-cicio 9
+
+// let valorcompra, total;
+// valorcompra = 50;
+// if (valorcompra >= 150) {
 //   console.log("Frete grátis");
+//   console.log(`O valor total da compra é: ${valorcompra}`);
 // } else {
+//   total = valorcompra + 20;
 //   console.log("Taxa de entrega: R$20,00");
+//   console.log(`O valor total da compra é: ${total}`)
 // }
+
 
 // //zé-cicio 10
 
