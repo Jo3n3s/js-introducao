@@ -108,8 +108,7 @@
 
 // //zé-cicio 10
 
-// let num;
-// num = 13;
+// let num = 13;
 // if (num >= 10 && num <= 50) {
 //   console.log("Está no intervalo");
 // } else {
