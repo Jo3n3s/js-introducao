@@ -27,10 +27,12 @@ verificarIntervalo(10)
 verificarIntervalo(25)
 verificarIntervalo(75)
 
+//function quadrado de um número
+
 function quadrado(numero){
     numero*numero;
 }
 
-console.log(quedrado(2));
+console.log(quadrado(2));
 console.log(quadrado(6));
 console.log(quadrado(8));

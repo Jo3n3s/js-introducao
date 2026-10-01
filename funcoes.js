@@ -2,7 +2,7 @@
 
 // }
 
-// const nomeDeFuncao = () => {}
+// const nomeDaFuncao = () => {}
 
     // function boasVindas(){
     //     console.log("Ola");
@@ -21,4 +21,6 @@
 
     // console.log(`O resultado de 2+2 é = ${soma(2,2)}`);
 
-    
+    //Apresentação
+
+
